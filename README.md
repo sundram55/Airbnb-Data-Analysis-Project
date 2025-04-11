@@ -39,11 +39,6 @@ The dataset used in this project is a compressed CSV file named:
 - Room Type vs Price vs Availability
 - Visualization of top hosts and most reviewed listings
 
----
-
-## 📷 Sample Visualizations
-
-> _Include screenshots here (optional)_
 
 ---
 
